@@ -375,4 +375,3 @@ resource "aws_secretsmanager_secret_version" "db" {
   })
 }
 ```
-
