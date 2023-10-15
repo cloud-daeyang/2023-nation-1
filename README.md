@@ -202,6 +202,10 @@ Resources:
                 {
                     "name": "ENABLE_ENVOY_STATS_TAGS",
                     "value": "1"
+                },
+                {
+                    "name": "ENVOY_LOG_LEVEL",
+                    "value": "debug"
                 }
             ],
             "user": "1337",
