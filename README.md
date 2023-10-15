@@ -186,7 +186,7 @@ Resources:
         },
         /* {
             "name": "envoy",
-            "image": "840364872350.dkr.ecr.ap-northeast-2.amazonaws.com/aws-appmesh-envoy:v1.12.3.0-prod",
+            "image": "840364872350.dkr.ecr.ap-northeast-2.amazonaws.com/aws-appmesh-envoy:v1.26.4.0-prod",
             "cpu": 0,
             "memoryReservation": 128,
             "essential": true,
